@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Deden Istiawan
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: "https://example.com/"
 
 ############################
 ## LANGUAGE
@@ -32,7 +32,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
+  authors: "/author/:slug/"
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
