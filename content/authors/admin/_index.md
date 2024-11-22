@@ -142,6 +142,7 @@ languages:
 awards:
   - title: "Machine Learning Professional Certification"
     url:
+    certificate_url: https://drive.google.com/file/d/135rv3pzCe7vukkjBrTvvX37i6p5kxPqL/view?usp=sharing
     date: "2023-11-25"
     awarder: Altair Rapidminer
     summary: |
@@ -149,14 +150,31 @@ awards:
 
   - title: "Applications & Use Cases Professional Certification"
     url:
+    certificate_url: https://drive.google.com/file/d/136LSDW-cyfz4JF64JyuMqHbMa03Mc8HP/view?usp=sharing
     date: "2023-07-01"
     awarder: Altair Rapidminer
     summary: |
       Sertifikasi Applications & Use Cases Professional dari RapidMiner dirancang untuk menguji dan memvalidasi kemampuan peserta dalam memahami serta menerapkan analisis data dalam konteks dunia nyata. Sertifikasi ini berfokus pada pengembangan wawasan berbasis data melalui eksplorasi, persiapan, serta analisis data menggunakan RapidMiner, dengan penekanan pada skenario dan kasus penggunaan profesional.
 
-  - title: "ableau for Data Visualization Mastery"
+  - title: "Tableau for Data Visualization Mastery"
     url:
-    certificate_url: https://www.datacamp.com
+    certificate_url: https://drive.google.com/file/d/1378EIppTxCmYQp6YqjOZtFrvu4JDYQ3D/view?usp=sharing
+    date: "2023-01-21"
+    awarder: Shift Academy
+    summary: |
+      Sertifikasi Tableau for Data Visualization Mastery dari Shift Academy adalah bukti kompetensi profesional dalam menguasai Tableau, salah satu perangkat lunak visualisasi data terkemuka di dunia. Program ini dirancang untuk membekali peserta dengan kemampuan mendalam dalam membuat visualisasi interaktif, dashboard, serta analisis data yang efektif untuk mendukung pengambilan keputusan bisnis.
+
+  - title: "Introduction to Data Science with R"
+    url:
+    certificate_url: https://drive.google.com/file/d/134Qp_V9woFjNVWLGaUmCDbrObpq2R3cT/view?usp=sharing
+    date: "2023-01-21"
+    awarder: Shift Academy
+    summary: |
+      Sertifikasi Tableau for Data Visualization Mastery dari Shift Academy adalah bukti kompetensi profesional dalam menguasai Tableau, salah satu perangkat lunak visualisasi data terkemuka di dunia. Program ini dirancang untuk membekali peserta dengan kemampuan mendalam dalam membuat visualisasi interaktif, dashboard, serta analisis data yang efektif untuk mendukung pengambilan keputusan bisnis.
+
+  - title: "Introduction to Data Science with R"
+    url:
+    certificate_url: https://drive.google.com/file/d/133mH1nj8M4nWDQAX4VDHb4GzWLtV-JoO/view?usp=sharing
     date: "2023-01-21"
     awarder: Shift Academy
     summary: |
