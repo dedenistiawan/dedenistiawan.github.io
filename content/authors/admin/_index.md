@@ -57,43 +57,42 @@ education:
     date_start: 2015-09-01
     date_end: 2017-08-23
     summary: |
-     
+
   - area: S1-Statistika
     institution: Institut Sains dan Teknologi AKPRIND Yogyakarta
     date_start: 2012-03-01
     date_end: 2013-12-31
     summary: |
-      
+
   - area: D3-Statistika
     institution: Akademi Statistika dan Bisnis Muhammadiyah Semarang
     date_start: 2008-09-01
     date_end: 2011-10-01
     summary: |
-  
-work:
-  - position: Lecturer and Researcher
-    company_name: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
-    company_url: ""
-    company_logo: ""
-    date_start: 2017-08-01
-    date_end: ""
-    summary: |
-      
-  - position: Data Research Analyst
-    company_name: Balai Penelitian dan Pengembangan Agama Semarang
-    company_url: ""
-    company_logo: ""
-    date_start: 2017-01-01
-    date_end: 2021-12-31
-    summary: |
 
-- position: Data Research Analyst
-    company_name: Pemerintah Kota Semarang
+work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ""
     company_logo: ""
-    date_start: 2018-01-01
-    date_end: 2019-12-31
-    summary: |      
+    date_start: 2021-01-01
+    date_end: ""
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ""
+    company_logo: ""
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -134,14 +133,14 @@ languages:
     percent: 100
   - name: English
     percent: 75
- 
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: "Machine Learning Professional Certification"
-    url: 
+    url:
     date: "2023-11-25"
     awarder: Altair Rapidminer
     icon: Altair Rapidminer
@@ -149,7 +148,7 @@ awards:
       Machine Learning Professional Certification oleh RapidMiner dirancang untuk menguji dan mengakui keahlian profesional dalam menerapkan teknik machine learning menggunakan platform RapidMiner. Sertifikasi ini mencakup kemampuan untuk membangun, mengoptimalkan, dan mengevaluasi model machine learning, serta mengintegrasikan model ke dalam proses analitik bisnis. Peserta diharapkan memiliki pemahaman mendalam tentang algoritma machine learning, preprocessing data, evaluasi kinerja model, dan automasi analitik. Sertifikasi ini ideal untuk data scientist, analis data, dan profesional yang ingin memvalidasi keterampilan mereka di bidang machine learning dengan alat canggih RapidMiner.
 
   - title: "Applications & Use Cases Professional Certification"
-    url: 
+    url:
     date: "2023-07-01"
     awarder: Altair Rapidminer
     icon: Altair Rapidminer
@@ -157,7 +156,7 @@ awards:
       Sertifikasi Applications & Use Cases Professional dari RapidMiner dirancang untuk menguji dan memvalidasi kemampuan peserta dalam memahami serta menerapkan analisis data dalam konteks dunia nyata. Sertifikasi ini berfokus pada pengembangan wawasan berbasis data melalui eksplorasi, persiapan, serta analisis data menggunakan RapidMiner, dengan penekanan pada skenario dan kasus penggunaan profesional.
 
   - title: "ableau for Data Visualization Mastery"
-    url: 
+    url:
     certificate_url: https://www.datacamp.com
     date: "2023-01-21"
     awarder: Shift Academy
