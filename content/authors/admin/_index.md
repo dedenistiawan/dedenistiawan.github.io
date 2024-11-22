@@ -59,13 +59,13 @@ education:
     summary: |
 
   - area: S1-Statistika
-    institution: Institut Sains dan Teknologi AKPRIND Yogyakarta
+    institution: Institut Sains dan Teknologi AKPRIND
     date_start: 2012-03-01
     date_end: 2013-12-31
     summary: |
 
   - area: D3-Statistika
-    institution: Akademi Statistika dan Bisnis Muhammadiyah Semarang
+    institution: Akademi Statistika Muhammadiyah Semarang
     date_start: 2008-09-01
     date_end: 2011-10-01
     summary: |
