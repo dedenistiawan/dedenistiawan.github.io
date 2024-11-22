@@ -75,7 +75,7 @@ work:
     company_name: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     company_url: ""
     company_logo: ""
-    date_start: 2021-08-01
+    date_start: 2017-08-01
     date_end: ""
     summary: |
 
@@ -85,6 +85,14 @@ work:
     company_logo: ""
     date_start: 2017-01-01
     date_end: 2021-12-31
+    summary: |
+
+  - position: Data Research Analyst
+    company_name: Pemerintah Kota Semarang
+    company_url: ""
+    company_logo: ""
+    date_start: 2018-01-01
+    date_end: 2019-12-31
     summary: |
 
 # Skills
