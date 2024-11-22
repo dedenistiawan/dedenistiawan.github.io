@@ -77,7 +77,7 @@ work:
     company_logo: ""
     date_start: 2017-08-01
     date_end: ""
-    summary: |2-
+    summary: |
       
   - position: Data Research Analyst
     company_name: Balai Penelitian dan Pengembangan Agama Semarang
