@@ -79,17 +79,13 @@ work:
     date_end: ""
     summary: |
 
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Data Research Analyst
+    company_name: Balai Penelitian dan Pengembangan Agama Semarang
     company_url: ""
     company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-01-01
+    date_end: 2021-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
