@@ -65,7 +65,7 @@ education:
     summary: |
 
   - area: D3-Statistika
-    institution: Akademi Statistika Muhammadiyah Semarang
+    institution: Akademi Statistika Muhammadiyah
     date_start: 2008-09-01
     date_end: 2011-10-01
     summary: |
