@@ -71,17 +71,14 @@ education:
     summary: |
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Lecturer and Researcher
+    company_name: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
     company_url: ""
     company_logo: ""
-    date_start: 2021-01-01
+    date_start: 2021-08-01
     date_end: ""
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+
   - position: Backend Software Engineer
     company_name: X
     company_url: ""
@@ -143,7 +140,6 @@ awards:
     url:
     date: "2023-11-25"
     awarder: Altair Rapidminer
-    icon: Altair Rapidminer
     summary: |
       Machine Learning Professional Certification oleh RapidMiner dirancang untuk menguji dan mengakui keahlian profesional dalam menerapkan teknik machine learning menggunakan platform RapidMiner. Sertifikasi ini mencakup kemampuan untuk membangun, mengoptimalkan, dan mengevaluasi model machine learning, serta mengintegrasikan model ke dalam proses analitik bisnis. Peserta diharapkan memiliki pemahaman mendalam tentang algoritma machine learning, preprocessing data, evaluasi kinerja model, dan automasi analitik. Sertifikasi ini ideal untuk data scientist, analis data, dan profesional yang ingin memvalidasi keterampilan mereka di bidang machine learning dengan alat canggih RapidMiner.
 
@@ -151,7 +147,6 @@ awards:
     url:
     date: "2023-07-01"
     awarder: Altair Rapidminer
-    icon: Altair Rapidminer
     summary: |
       Sertifikasi Applications & Use Cases Professional dari RapidMiner dirancang untuk menguji dan memvalidasi kemampuan peserta dalam memahami serta menerapkan analisis data dalam konteks dunia nyata. Sertifikasi ini berfokus pada pengembangan wawasan berbasis data melalui eksplorasi, persiapan, serta analisis data menggunakan RapidMiner, dengan penekanan pada skenario dan kasus penggunaan profesional.
 
@@ -160,7 +155,6 @@ awards:
     certificate_url: https://www.datacamp.com
     date: "2023-01-21"
     awarder: Shift Academy
-    icon: Shift Academy
     summary: |
       Sertifikasi Tableau for Data Visualization Mastery dari Shift Academy adalah bukti kompetensi profesional dalam menguasai Tableau, salah satu perangkat lunak visualisasi data terkemuka di dunia. Program ini dirancang untuk membekali peserta dengan kemampuan mendalam dalam membuat visualisasi interaktif, dashboard, serta analisis data yang efektif untuk mendukung pengambilan keputusan bisnis.
 ---
