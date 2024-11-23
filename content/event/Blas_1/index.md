@@ -17,8 +17,8 @@ abstract: "Penyusunan dan pembahasan indeks literasi Al-Qur’an di Jawa Timur d
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-01-01T13:00:00Z"
-date_end: "2017-01-01T15:00:00Z"
+date: "2017-01-01"
+date_end: "2017-01-01"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -42,7 +42,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: "https://github.com/dedenistiawan"
-url_pdf: ""
+url_pdf: "https://github.com/dedenistiawan"
 url_slides: ""
 url_video: ""
 
