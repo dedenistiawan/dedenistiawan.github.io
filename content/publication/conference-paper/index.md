@@ -1,40 +1,42 @@
 ---
-title: 'An example conference paper'
+title: "Hybrid genetic feature selection and support vector machine for prediction LQ45 index in Indonesia stock exchange"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Abdul Syukur
   - admin
-  - Robert Ford
+  - Wellie Sulistijanti
+  - Ahmad Ilham
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - "Equal contribution"
+  - "Equal contribution"
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: "2021-11-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2023-05-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: AIP Conference Proceedings
+publication_short:
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Stock market predictions play a very important role and have attracted a lot of attention, this is because stock price predictions can bring huge profits in the future by making the right decisions. LQ45 index is one of the most popular and influential stock indices on the Indonesia Stock Exchange. LQ45 index is an index that measures the price performance of 45 stocks that have high liquidity and large market capitalization and are supported by good company fundamentals and adjusted every six months at the beginning of February and August. Stocks with declining performance will be excluded from the index. Prediction of stock composition in the LQ45 index is an important issue in investment, always attracts the attention of public investors and academics for research. Prediction LQ45 index will be very useful for investors to be able to see how the prospects for investing in a company’s stock in the future. In order to build a better model to predict the composition of the LQ45 index effectively and efficiently, we developed a prediction model with a hybrid approach using genetic algorithms and supporting vector machines to predict which companies will enter and leave the LQ45 index. This proposed algorithm namely GA-SVM. The results show the proposed algorithm yield excellent performance compared with PSO-SVM, FS-SVM and BE-SVM and promising results with the accuracy is 93.49%.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Stock Market Predictions
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,20 +46,20 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: ""
+url_code: "https://github.com/dedenistiawan"
+url_dataset: "https://github.com/dedenistiawan"
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: "https://github.com/dedenistiawan"
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -79,9 +81,3 @@ slides: example
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
