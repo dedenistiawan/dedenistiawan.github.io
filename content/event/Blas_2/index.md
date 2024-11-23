@@ -1,5 +1,5 @@
 ---
-title: Narasumber Penyusunan Executive Summary Indeks Integritas Peserta Didik pada Jenjang Pendidikan Menengah
+title: Narasumber Penyusunan dan Pembahasan Indeks Literasi Al-Quran di Jawa Timur dan DIY
 
 event: Balai Litbang Agama Semarang
 event_url:
@@ -12,13 +12,13 @@ address:
   postcode:
   country: Indonesia
 
-summary: Penyusunan Executive Summary Indeks Integritas Peserta Didik pada Jenjang Pendidikan Menengah.
-abstract: "Penyusunan Indeks Integritas Peserta Didik bertujuan untuk mengukur tingkat integritas siswa pada jenjang pendidikan menengah (SMA/SMK/MA). Indeks ini membantu memetakan kondisi moral dan etika peserta didik sekaligus memberikan gambaran keberhasilan pembinaan karakter di sekolah. Data ini menjadi masukan bagi pengambil kebijakan dalam meningkatkan kualitas pendidikan karakter."
+summary: Penyusunan dan Pembahasan Indeks Literasi Al-Quran di Jawa Timur dan DIY.
+abstract: "Penyusunan dan pembahasan indeks literasi Al-Qur’an di Jawa Timur dan DIY bertujuan untuk mengukur tingkat pemahaman, keterampilan, dan pengamalan nilai-nilai Al-Qur’an dalam kehidupan masyarakat."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-06-01T13:00:00Z"
-date_end: "2018-06-01T15:00:00Z"
+date: "2017-01-01T13:00:00Z"
+date_end: "2017-01-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
