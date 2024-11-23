@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text:
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -32,16 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: "📚 My Research"
+      subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research field is data science, focusing on the collection, processing, analysis, and interpretation of data to generate insights that support decision-making. This research involves using statistical methods, machine learning, and advanced computational techniques to identify patterns, trends, and relationships within complex datasets. The primary applications of this work span various sectors, including social analysis, disaster prediction, system optimization, and the development of data-driven models to effectively and efficiently address real-world problems..
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
         Please reach out to collaborate 😃
     design:
-      columns: '1'
+      columns: "1"
   - block: collection
     id: papers
     content:
@@ -77,8 +75,8 @@ sections:
     id: news
     content:
       title: Recent News
-      subtitle: ''
-      text: ''
+      subtitle: ""
+      text: ""
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
@@ -112,7 +110,7 @@ sections:
         <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
 
         Easily build anything with blocks - no-code required!
-        
+
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started

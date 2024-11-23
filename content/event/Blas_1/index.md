@@ -42,7 +42,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: "https://github.com/dedenistiawan"
-url_invitation: "https://github.com/dedenistiawan"
+url_pdf: "https://github.com/dedenistiawan"
 url_slides: ""
 url_video: ""
 
