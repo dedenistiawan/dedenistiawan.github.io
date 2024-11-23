@@ -52,7 +52,7 @@ url_dataset: "https://github.com/dedenistiawan"
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://github.com/dedenistiawan"
+url_source: ""
 url_video: ""
 
 # Featured image
