@@ -19,4 +19,4 @@ tags:
 
 ## Overview
 
-Pada artikel ini akan dijelaskan step by step membuat animasi di R menggunakan packages gganimate. gganimate adalah ekstensi dari packages gglplot2 untuk membuat animasi. Untuk membuat animasi grafik dibutuhkan beberapa packages diantaranaya gapminder ggplot2 gganimate. [read more] (https://rpubs.com/dedenistiawan/gganimate)
+Pada artikel ini akan dijelaskan step by step membuat animasi di R menggunakan packages [gganimate](https://rpubs.com/dedenistiawan/gganimate). [gganimate](https://rpubs.com/dedenistiawan/gganimate) adalah ekstensi dari packages [gglplot2](https://rpubs.com/dedenistiawan/gganimate) untuk membuat animasi. Untuk membuat animasi grafik dibutuhkan beberapa packages diantaranaya gapminder ggplot2 gganimate. [Read more](https://rpubs.com/dedenistiawan/gganimate)
