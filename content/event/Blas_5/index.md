@@ -1,5 +1,5 @@
 ---
-title: Narasumber Penyusunan Executive Summary Indeks Integritas Peserta Didik pada Jenjang Pendidikan Menengah
+title: Narasumber Audiensi Hasil Survei Evaluasi Indeks Kerukunan Umat Beragama di Provinsi Kalimantan Barat
 
 event: Balai Litbang Agama Semarang
 event_url:
@@ -12,17 +12,17 @@ address:
   postcode:
   country: Indonesia
 
-summary: Penyusunan Executive Summary Indeks Integritas Peserta Didik pada Jenjang Pendidikan Menengah.
-abstract: "Penyusunan Indeks Integritas Peserta Didik bertujuan untuk mengukur tingkat integritas siswa pada jenjang pendidikan menengah (SMA/SMK/MA). Indeks ini membantu memetakan kondisi moral dan etika peserta didik sekaligus memberikan gambaran keberhasilan pembinaan karakter di sekolah. Data ini menjadi masukan bagi pengambil kebijakan dalam meningkatkan kualitas pendidikan karakter."
+summary: Audiensi Hasil Survei Evaluasi Indeks Kerukunan Umat Beragama di Provinsi Kalimantan Barat.
+abstract: "Provinsi Kalimantan Barat memiliki keberagaman agama dan budaya yang signifikan. Survei ini bertujuan mengukur Indeks Kerukunan Umat Beragama (IKUB) serta mengevaluasi faktor-faktor yang memengaruhinya."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-06-01T13:00:00Z"
-date_end: "2018-06-01T15:00:00Z"
+date: "2022-09-01T13:00:00Z"
+date_end: "2022-09-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-06-01T00:00:00Z"
+publishDate: "2022-09-01T00:00:00Z"
 
 authors:
   - admin

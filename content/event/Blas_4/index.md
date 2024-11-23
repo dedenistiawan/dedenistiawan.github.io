@@ -1,5 +1,5 @@
 ---
-title: Narasumber Penyusunan Executive Summary Indeks Integritas Peserta Didik pada Jenjang Pendidikan Menengah
+title: Narasumber Kegiatan Uji Validasi II Penelitian Varian Sumber Belajar Keagamaan Moderat Siswa Madrasah Aliyah di Era Disruptif
 
 event: Balai Litbang Agama Semarang
 event_url:
@@ -12,17 +12,17 @@ address:
   postcode:
   country: Indonesia
 
-summary: Penyusunan Executive Summary Indeks Integritas Peserta Didik pada Jenjang Pendidikan Menengah.
-abstract: "Penyusunan Indeks Integritas Peserta Didik bertujuan untuk mengukur tingkat integritas siswa pada jenjang pendidikan menengah (SMA/SMK/MA). Indeks ini membantu memetakan kondisi moral dan etika peserta didik sekaligus memberikan gambaran keberhasilan pembinaan karakter di sekolah. Data ini menjadi masukan bagi pengambil kebijakan dalam meningkatkan kualitas pendidikan karakter."
+summary: Kegiatan Uji Validasi II Penelitian Varian Sumber Belajar Keagamaan Moderat Siswa Madrasah Aliyah di Era Disruptif.
+abstract: "Uji validasi II bertujuan untuk memastikan bahwa rancangan model varian sumber belajar keagamaan moderat yang dikembangkan sesuai dengan kebutuhan siswa Madrasah Aliyah serta relevan dengan konteks era disruptif."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-06-01T13:00:00Z"
-date_end: "2018-06-01T15:00:00Z"
+date: "2021-02-01T13:00:00Z"
+date_end: "2021-02-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-06-01T00:00:00Z"
+publishDate: "2021-02-01T00:00:00Z"
 
 authors:
   - admin

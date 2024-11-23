@@ -1,7 +1,7 @@
 ---
-title: Narasumber Penyusunan dan Pembahasan Indeks Literasi Al-Quran di Jawa Timur dan DIY
+title: Narasumber Penyusunan Dashboard Internal LLDIKTI VI Jawa Tengah
 
-event: Balai Litbang Agama Semarang
+event: LLDIKTI Wilayah VI Jawa Tengah
 event_url:
 
 location: Semarang
@@ -12,17 +12,17 @@ address:
   postcode:
   country: Indonesia
 
-summary: Penyusunan dan Pembahasan Indeks Literasi Al-Quran di Jawa Timur dan DIY.
-abstract: "Penyusunan dan pembahasan indeks literasi Al-Qur’an di Jawa Timur dan DIY bertujuan untuk mengukur tingkat pemahaman, keterampilan, dan pengamalan nilai-nilai Al-Qur’an dalam kehidupan masyarakat."
+summary: Penyusunan Dashboard Internal LLDIKTI VI Jawa Tengah.
+abstract: "Penyusunan Dashboard Internal LLDIKTI VI bertujuan untuk meningkatkan efektivitas pengelolaan data dan mendukung pengambilan keputusan strategis di lingkungan LLDIKTI Jawa Tengah."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-01-01T13:00:00Z"
-date_end: "2017-01-01T15:00:00Z"
+date: "2020-09-01T13:00:00Z"
+date_end: "2020-09-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-09-01T00:00:00Z"
 
 authors:
   - admin
