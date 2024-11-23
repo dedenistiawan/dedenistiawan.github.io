@@ -103,7 +103,7 @@ skills:
       - name: R & Python
         description: ""
         percent: 80
-        icon: R.png
+        icon: code-bracket
       - name: Data Science
         description: ""
         percent: 100
