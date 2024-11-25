@@ -61,3 +61,19 @@ sebelum membuat animasi, langkah awal adalah membuat plot dasar yang static deng
     labs(x = "GDP per capita", y = "Life expectancy")
     gapminder_plot
     ```
+
+renders as
+
+    ```R
+    library(gapminder)
+    library(ggplot2)
+    gapminder_plot <- ggplot(
+      gapminder,
+      aes(x = gdpPercap, y=lifeExp, size = pop, colour = continent, size = pop, frame = year)
+      ) +
+      geom_point(alpha = 0.6) +
+      scale_color_viridis_d() +
+      scale_x_log10() +
+    labs(x = "GDP per capita", y = "Life expectancy")
+    gapminder_plot
+    ```
