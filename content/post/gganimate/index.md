@@ -21,7 +21,7 @@ Pada artikel ini akan dijelaskan step by step membuat animasi di R menggunakan p
 
 ## Load Package
 
-    ```
+    ```R
     library(gapminder)
     library(ggplot2)
     library(gganimate)
@@ -38,7 +38,7 @@ Tapap selanjutnya adalah import data dari gapminder di dalam dataset ini terdapa
 
 ## Import Data
 
-    ```
+    ```R
     library(gapminder)
     library(ggplot2)
     library(gganimate)
@@ -48,7 +48,7 @@ Tapap selanjutnya adalah import data dari gapminder di dalam dataset ini terdapa
 
 sebelum membuat animasi, langkah awal adalah membuat plot dasar yang static dengan gglplot2 dan simpan gambar dengan nama gapminder_plot
 
-    ```
+    ```R
     library(gapminder)
     library(ggplot2)
     gapminder_plot <- ggplot(
