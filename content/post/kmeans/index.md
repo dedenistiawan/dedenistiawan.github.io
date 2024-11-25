@@ -17,9 +17,7 @@ tags:
   - R
 ---
 
-## Pengertian Analisis Cluster
-
-Klastering adalah metode analisis data yang populer dan memainkan peran penting dalam data mining (Jiang et al. 2010). Klastering merupakan sebuah teknik unsupervised learning karena tidak adanya target label dalam prosesnya (He and Tan 2012), yang bertujuan untuk mengelompokkan data ke dalam beberapa kelompok atau klaster (Zhang, Ouyang, and Ning 2010) sehingga data dalam satu kelompok memiliki tingkat kemiripan yang maksimum dan data antar kelompok memiliki tingkat kemiripan yang minimum (Xiang et al. 2015).
+Klastering adalah metode analisis data yang populer dan memainkan peran penting dalam data mining. Klastering merupakan sebuah teknik unsupervised learning karena tidak adanya target label dalam prosesnya, yang bertujuan untuk mengelompokkan data ke dalam beberapa kelompok atau klaster sehingga data dalam satu kelompok memiliki tingkat kemiripan yang maksimum dan data antar kelompok memiliki tingkat kemiripan yang minimum.
 
 ## Algoritma K-Means
 
