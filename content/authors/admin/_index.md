@@ -146,7 +146,7 @@ awards:
     date: "2023-11-25"
     awarder: Altair Rapidminer
     summary: |
-      Machine Learning Professional Certification oleh RapidMiner dirancang untuk menguji dan mengakui keahlian profesional dalam menerapkan teknik machine learning menggunakan platform RapidMiner. Sertifikasi ini mencakup kemampuan untuk membangun, mengoptimalkan, dan mengevaluasi model machine learning, serta mengintegrasikan model ke dalam proses analitik bisnis. Peserta diharapkan memiliki pemahaman mendalam tentang algoritma machine learning, preprocessing data, evaluasi kinerja model, dan automasi analitik. Sertifikasi ini ideal untuk data scientist, analis data, dan profesional yang ingin memvalidasi keterampilan mereka di bidang machine learning dengan alat canggih RapidMiner.
+      RapidMiner’s Machine Learning Professional Certification is designed to test and recognize professional expertise in applying machine learning techniques using the RapidMiner platform. This certification covers the ability to build, optimize, and evaluate machine learning models, as well as integrate models into business analytics processes. Participants are expected to have a deep understanding of machine learning algorithms, data preprocessing, model performance evaluation, and analytics automation. This certification is ideal for data scientists, data analysts, and professionals who want to validate their skills in machine learning with RapidMiner’s powerful tools.
 
   - title: "Applications & Use Cases Professional Certification"
     url:
@@ -154,31 +154,31 @@ awards:
     date: "2023-07-01"
     awarder: Altair Rapidminer
     summary: |
-      Sertifikasi Applications & Use Cases Professional dari RapidMiner dirancang untuk menguji dan memvalidasi kemampuan peserta dalam memahami serta menerapkan analisis data dalam konteks dunia nyata. Sertifikasi ini berfokus pada pengembangan wawasan berbasis data melalui eksplorasi, persiapan, serta analisis data menggunakan RapidMiner, dengan penekanan pada skenario dan kasus penggunaan profesional.
+      RapidMiner’s Applications & Use Cases Professional certification is designed to test and validate participants’ ability to understand and apply data analytics in real-world contexts. The certification focuses on developing data-driven insights through data exploration, preparation, and analysis using RapidMiner, with an emphasis on professional use cases and scenarios.
 
   - title: "Tableau for Data Visualization Mastery"
     url:
     certificate_url: https://drive.google.com/file/d/1378EIppTxCmYQp6YqjOZtFrvu4JDYQ3D/view?usp=sharing
-    date: "2023-01-21"
+    date: "2021-02-27"
     awarder: Shift Academy
     summary: |
-      Sertifikasi Tableau for Data Visualization Mastery dari Shift Academy adalah bukti kompetensi profesional dalam menguasai Tableau, salah satu perangkat lunak visualisasi data terkemuka di dunia. Program ini dirancang untuk membekali peserta dengan kemampuan mendalam dalam membuat visualisasi interaktif, dashboard, serta analisis data yang efektif untuk mendukung pengambilan keputusan bisnis.
+      Shift Academy’s Tableau for Data Visualization Mastery certification is proof of professional competence in mastering Tableau, one of the world’s leading data visualization software. The program is designed to equip participants with in-depth skills in creating interactive visualizations, dashboards, and effective data analysis to support business decision-making.
 
   - title: "Introduction to Data Science with R"
     url:
     certificate_url: https://drive.google.com/file/d/134Qp_V9woFjNVWLGaUmCDbrObpq2R3cT/view?usp=sharing
-    date: "2023-01-21"
-    awarder: Shift Academy
+    date: "2020-09-16"
+    awarder: DQLab
     summary: |
-      Sertifikasi Tableau for Data Visualization Mastery dari Shift Academy adalah bukti kompetensi profesional dalam menguasai Tableau, salah satu perangkat lunak visualisasi data terkemuka di dunia. Program ini dirancang untuk membekali peserta dengan kemampuan mendalam dalam membuat visualisasi interaktif, dashboard, serta analisis data yang efektif untuk mendukung pengambilan keputusan bisnis.
+      DQLab’s Introduction to Data Science with R certification is designed to provide a foundational understanding of data science concepts using the R programming language. The program covers an introduction to data analysis, data manipulation, data visualization, and basic statistical techniques. Participants will learn how to use R to process datasets, create informative graphs, and generate data-driven insights. This certification is suitable for beginners who want to start a career in data science or develop their data analysis skills.
 
-  - title: "Introduction to Data Science with R"
+  - title: "Data Mining Advanced Using RapidMiner"
     url:
     certificate_url: https://drive.google.com/file/d/133mH1nj8M4nWDQAX4VDHb4GzWLtV-JoO/view?usp=sharing
-    date: "2023-01-21"
-    awarder: Shift Academy
+    date: "2020-06-06"
+    awarder: BrainMatics
     summary: |
-      Sertifikasi Tableau for Data Visualization Mastery dari Shift Academy adalah bukti kompetensi profesional dalam menguasai Tableau, salah satu perangkat lunak visualisasi data terkemuka di dunia. Program ini dirancang untuk membekali peserta dengan kemampuan mendalam dalam membuat visualisasi interaktif, dashboard, serta analisis data yang efektif untuk mendukung pengambilan keputusan bisnis.
+      Brainmatics’ Advanced Data Mining Using RapidMiner certification is designed for professionals who want to learn advanced data mining techniques using the user-friendly analytical tool, RapidMiner. This certification equips participants with the ability to apply complex algorithms, manage big data, and evaluate predictive models optimally.
 ---
 
 ## About Me
