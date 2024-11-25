@@ -17,6 +17,8 @@ tags:
   - ggplot2
 ---
 
+{{< toc mobile_only=true is_open=true >}}
+
 ## Overview
 
 Pada artikel ini akan dijelaskan step by step membuat animasi di R menggunakan packages [gganimate](https://rpubs.com/dedenistiawan/gganimate).
