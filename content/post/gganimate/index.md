@@ -47,10 +47,12 @@ Tapap selanjutnya adalah import data dari gapminder di dalam dataset ini terdapa
 ## Membuat Plot Dasar Statis
 
 sebelum membuat animasi, langkah awal adalah membuat plot dasar yang static dengan gglplot2 dan simpan gambar dengan nama gapminder_plot
-`    library(gapminder)
+
+    ```
+    library(gapminder)
     library(ggplot2)
     gapminder_plot <- ggplot(
-      gapminder, 
+      gapminder,
       aes(x = gdpPercap, y=lifeExp, size = pop, colour = continent, size = pop, frame = year)
       ) +
       geom_point(alpha = 0.6) +
@@ -58,4 +60,4 @@ sebelum membuat animasi, langkah awal adalah membuat plot dasar yang static deng
       scale_x_log10() +
     labs(x = "GDP per capita", y = "Life expectancy")
     gapminder_plot
-   `
+    ```
