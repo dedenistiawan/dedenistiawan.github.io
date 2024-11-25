@@ -42,12 +42,6 @@ Tapap selanjutnya adalah import data dari gapminder di dalam dataset ini terdapa
     library(ggplot2)
     library(gganimate)
 
-    ```R
-    library(gapminder)
-    library(ggplot2)
-    library(gganimate)
-    ```
-
 ## Membuat Plot Dasar Statis
 
 sebelum membuat animasi, langkah awal adalah membuat plot dasar yang static dengan gglplot2 dan simpan gambar dengan nama gapminder_plot
