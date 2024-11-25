@@ -38,6 +38,10 @@ Tapap selanjutnya adalah import data dari gapminder di dalam dataset ini terdapa
 
 ## Import Data
 
+    library(gapminder)
+    library(ggplot2)
+    library(gganimate)
+
     ```R
     library(gapminder)
     library(ggplot2)
