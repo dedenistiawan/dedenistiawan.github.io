@@ -38,11 +38,3 @@ Algoritma K-means mengelompokan objek ke dalam kelompok sehingga objek dalam sat
 Pada eksprimen ini algoritma K-Means akan digunakan untuk mengelompokan data kemiskinan di Jawa Tengah yang diambil dari website Tim Percepatan Penanggulangan Kemiskinan [TNP2K](https://www.tnp2k.go.id/)
 
 ### Read Data
-
-Package readr menyiapkan fungsi read_csv() untuk import data dari file CSV. Pada kasus ini digunakan data Data 40% Kemiskinan di jawa Tengah.
-
-    library (readr)
-    urlfile = "https://raw.githubusercontent.com/dedenistiawan/Dataset/main/BDT.csv"
-
-    data<-read.csv(url(urlfile), row.names = "Kabupaten")
-    data
