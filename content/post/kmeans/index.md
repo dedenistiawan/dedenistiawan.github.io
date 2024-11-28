@@ -36,5 +36,3 @@ Algoritma K-means mengelompokan objek ke dalam kelompok sehingga objek dalam sat
 ## Eksperimen Algoritma K-Means
 
 Pada eksprimen ini algoritma K-Means akan digunakan untuk mengelompokan data kemiskinan di Jawa Tengah yang diambil dari website Tim Percepatan Penanggulangan Kemiskinan [TNP2K](https://www.tnp2k.go.id/)
-
-### Read Data
